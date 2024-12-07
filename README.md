@@ -9,14 +9,6 @@
 Make one for yourself or your friends!  Please record your work in the [manifest](./MANIFEST.md),
 including any adjustments you made for materials, etc.
 
-* Burn parameters/layers
-    * qr-outside
-    * graphic-outside
-    * text-outside
-    * text-inside
-    * cut-no-free
-    * cut (best if this is last)
-
 ## Support files
 * [Raw SVG](book.svg)
 * [QR code image](qr.png)
