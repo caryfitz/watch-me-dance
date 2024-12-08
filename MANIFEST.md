@@ -8,4 +8,5 @@
 | Number | Maker             | Date           | Recipient        | Customizations | Story |
 | ------ | -----             | -----          | ---------        | -------------- | ------ |
 | 1      | Cary FitzGerald   | August 2024    | For UG           | None           | Irrepressible |
-| 2-15   | Cary FitzGerald   | September 2024 | Boelyn art fest  | -              | -        |
+| 2      | Cary FitzGerald   | November 2024  | Toni            | None           | |
+| 3-15   | Cary FitzGerald   | December 2024 | Boelyn art fest  | -              | -        |
