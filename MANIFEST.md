@@ -11,4 +11,6 @@
 | 2      | Cary FitzGerald   | November 2024  | For Toni         | None           | |
 | 3      | Cary FitzGerald   | January 2024  | Uli will distribute            | None           | |
 | 4      | Cary FitzGerald   | January 2024  | Uli will distribute            | None           | |
-| 5-15   | Cary FitzGerald   | December 2024 | Boelyn art fest  | -              | -        |
+| 5      | Cary FitzGerald   | January 2024  | Jim will distribute            | None           | |
+| 6      | Cary FitzGerald   | January 2024  | Jim will distribute            | None           | |
+| 7-15   | Cary FitzGerald   | December 2024 | Boelyn art fest  | -              | -        |
